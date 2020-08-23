@@ -1,45 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charles0122.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-23T17:55:51.826Z</updated>
+    <title>Charles</title>
+    <updated>2020-08-23T18:36:00.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charles0122.github.io"/>
     <link rel="self" href="https://charles0122.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://charles0122.github.io/images/avatar.png</logo>
     <icon>https://charles0122.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Charles</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://charles0122.github.io/post/hello-gridea/</id>
-        <link href="https://charles0122.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[游戏《召唤伙伴》开发正式启动]]></title>
+        <id>https://charles0122.github.io/post/you-xi-lesslesszhao-huan-huo-ban-greatergreater-kai-fa-zheng-shi-qi-dong/</id>
+        <link href="https://charles0122.github.io/post/you-xi-lesslesszhao-huan-huo-ban-greatergreater-kai-fa-zheng-shi-qi-dong/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-08-23T18:10:34.000Z</updated>
+        <content type="html"><![CDATA[<p>程序   1  人<br>
+美术   0  人（急缺）<br>
+策划   1   人</p>
+<p>！！有关该游戏的信息可像博主咨询</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大家好，我是charles，这是我的个人博客，希望能够和大家一起交流学习。]]></title>
+        <id>https://charles0122.github.io/post/da-jia-hao-wo-shi-charleszhe-shi-wo-de-ge-ren-bo-ke-xi-wang-neng-gou-he-da-jia-yi-qi-jiao-liu-xue-xi/</id>
+        <link href="https://charles0122.github.io/post/da-jia-hao-wo-shi-charleszhe-shi-wo-de-ge-ren-bo-ke-xi-wang-neng-gou-he-da-jia-yi-qi-jiao-liu-xue-xi/">
+        </link>
+        <updated>2020-08-23T18:07:18.000Z</updated>
+        <content type="html"><![CDATA[<p>qq：756337520<br>
+wx：charles010122（搜索qq也可搜到）</p>
 ]]></content>
     </entry>
 </feed>
