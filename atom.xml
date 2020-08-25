@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charles0122.github.io</id>
     <title>Charles</title>
-    <updated>2020-08-25T20:35:33.534Z</updated>
+    <updated>2020-08-25T20:54:21.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charles0122.github.io"/>
     <link rel="self" href="https://charles0122.github.io/atom.xml"/>
@@ -16,7 +16,22 @@
         <link href="https://charles0122.github.io/post/2d-heng-ban-xiang-su-feng-ge-you-xi-lesslesssunny-landgreatergreater-wan-cheng-65/">
         </link>
         <updated>2020-08-24T17:06:18.000Z</updated>
-        <content type="html"><![CDATA[<p>游戏制作截图</p>
+        <content type="html"><![CDATA[<!-- more -->
+<p>游戏制作截图<br>
+<img src="https://charles0122.github.io/post-images/1598388583664.png" alt="" loading="lazy"><br>
+启动画面<br>
+<img src="https://charles0122.github.io/post-images/1598388636172.png" alt="" loading="lazy"><br>
+下蹲代码编写<br>
+<img src="https://charles0122.github.io/post-images/1598388665951.png" alt="" loading="lazy"><br>
+检查bug<br>
+<img src="https://charles0122.github.io/post-images/1598388682287.png" alt="" loading="lazy"><br>
+给开始按钮添加文本格式<br>
+<img src="https://charles0122.github.io/post-images/1598388714124.png" alt="" loading="lazy"><br>
+给文本添加格式<br>
+<img src="https://charles0122.github.io/post-images/1598388734060.png" alt="" loading="lazy"><br>
+看见一只青蛙<br>
+<img src="https://charles0122.github.io/post-images/1598388752251.png" alt="" loading="lazy"><br>
+按下按键触发事件代码编写</p>
 <p>下载方式<br>
 <img src="https://charles0122.github.io/post-images/1598289933973.png" alt="" loading="lazy"><br>
 蓝奏云链接https://wwa.lanzous.com/b0dk9147a<br>
