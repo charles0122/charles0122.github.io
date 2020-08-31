@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charles0122.github.io</id>
     <title>Charles</title>
-    <updated>2020-08-31T04:06:34.733Z</updated>
+    <updated>2020-08-31T04:09:03.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charles0122.github.io"/>
     <link rel="self" href="https://charles0122.github.io/atom.xml"/>
@@ -243,6 +243,27 @@ https://wwa.lanzous.com/b0dk914ad<br>
 美术   1  人（急缺）<br>
 策划   1   人</p>
 <p>！！有意向加入项目的小伙伴可向博主咨询</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About]]></title>
+        <id>https://charles0122.github.io/About/</id>
+        <link href="https://charles0122.github.io/About/">
+        </link>
+        <updated>2020-08-23T18:07:18.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>大家好，我是charles，这是我的个人博客，希望能够和大家一起交流学习。</p>
+<h1 id="-more-qq"><!-- more --><br>
+QQ：</h1>
+<p>账号：756337520<br>
+二维码：<br>
+<img src="https://charles0122.github.io/post-images/1598839116020.png" alt="" loading="lazy"></p>
+<h1 id="-more-微信"><!-- more --><br>
+微信：</h1>
+<p>账号：charles010122（搜索qq也可搜到）<br>
+二维码：<br>
+<img src="https://charles0122.github.io/post-images/1598838799558.png" alt="" loading="lazy"></p>
+<!-- more -->
 ]]></content>
     </entry>
 </feed>
