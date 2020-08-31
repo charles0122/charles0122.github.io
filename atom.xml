@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charles0122.github.io</id>
     <title>Charles</title>
-    <updated>2020-08-31T02:20:04.820Z</updated>
+    <updated>2020-08-31T02:22:19.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charles0122.github.io"/>
     <link rel="self" href="https://charles0122.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://charles0122.github.io/images/avatar.png</logo>
     <icon>https://charles0122.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Charles</rights>
+    <entry>
+        <title type="html"><![CDATA[Reward]]></title>
+        <id>https://charles0122.github.io/Reward/</id>
+        <link href="https://charles0122.github.io/Reward/">
+        </link>
+        <updated>2020-08-31T02:19:52.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>如果觉得我的文章对您有用，请随意打赏。<br>
+您的支持将鼓励我继续创作！</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[游戏《Call of Companion》同名小说将在起点中文网发布]]></title>
         <id>https://charles0122.github.io/you-xi-lesslesszhao-huan-tong-ban-greatergreater-tong-ming-xiao-shuo-jiang-zai-qi-dian-zhong-wen-wang-fa-bu/</id>
