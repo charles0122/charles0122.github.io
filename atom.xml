@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charles0122.github.io</id>
     <title>Charles</title>
-    <updated>2020-08-31T02:37:30.606Z</updated>
+    <updated>2020-08-31T02:45:45.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charles0122.github.io"/>
     <link rel="self" href="https://charles0122.github.io/atom.xml"/>
@@ -166,8 +166,8 @@ javascript
     </entry>
     <entry>
         <title type="html"><![CDATA[2D横板像素风格游戏《Sunny Land》（未完成）]]></title>
-        <id>https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-lesslesssunny-landgreatergreater-wan-cheng-65/</id>
-        <link href="https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-lesslesssunny-landgreatergreater-wan-cheng-65/">
+        <id>https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-Sunny Land/</id>
+        <link href="https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-Sunny Land/">
         </link>
         <updated>2020-08-24T17:06:18.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -197,8 +197,8 @@ https://wwa.lanzous.com/b0dk9147a<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[2D横板像素风格游戏《Hazard of Garcon》（未完成）]]></title>
-        <id>https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-lesslesssunny-landgreatergreater/</id>
-        <link href="https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-lesslesssunny-landgreatergreater/">
+        <id>https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-sunnyland/</id>
+        <link href="https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-sunnyland/">
         </link>
         <updated>2020-08-24T17:06:18.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -247,8 +247,8 @@ https://wwa.lanzous.com/b0dk914ad<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[游戏《Call of Companion》开发正式启动]]></title>
-        <id>https://charles0122.github.io/you-xi-lesslesszhao-huan-huo-ban-greatergreater-kai-fa-zheng-shi-qi-dong/</id>
-        <link href="https://charles0122.github.io/you-xi-lesslesszhao-huan-huo-ban-greatergreater-kai-fa-zheng-shi-qi-dong/">
+        <id>https://charles0122.github.io/you-xi-Call of Companion-kai-fa-zheng-shi-qi-dong/</id>
+        <link href="https://charles0122.github.io/you-xi-Call of Companion-kai-fa-zheng-shi-qi-dong/">
         </link>
         <updated>2020-08-23T18:10:34.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://charles0122.github.io/post-images/1598288503078.png" alt="" loading="lazy"><br>
