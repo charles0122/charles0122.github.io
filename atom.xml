@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charles0122.github.io</id>
     <title>Charles</title>
-    <updated>2020-08-31T03:45:00.002Z</updated>
+    <updated>2020-08-31T03:49:25.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charles0122.github.io"/>
     <link rel="self" href="https://charles0122.github.io/atom.xml"/>
@@ -118,38 +118,36 @@ https://m.qidian.com/book/1023469425/0</p>
         <link href="https://charles0122.github.io/web-qian-duan-xue-xi-ri-zhi/">
         </link>
         <updated>2020-08-28T16:15:56.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>html
-    标签
-        基础标签
-    三表
-        表格table
-            单元格
-            行
-            列
-            合并单元格
-        表单input
-            input类
-                属性值
-                    text文本
-                    password密码
-                    file文件
-                    reset重置
-                    submit提交
-                    radio单选
-                    button自定义按钮
-                    checkbox复选
-                    textarea文本域
-            表单域
-            select表单
-            label表单
-        列表list
-            无序列表
-            有序列表
-            自定义列表
-
-css
-javascript
-</code></pre>
+        <content type="html"><![CDATA[<p>html<br>
+标签<br>
+基础标签<br>
+三表<br>
+表格table<br>
+单元格<br>
+行<br>
+列<br>
+合并单元格<br>
+表单input<br>
+input类<br>
+属性值<br>
+text文本<br>
+password密码<br>
+file文件<br>
+reset重置<br>
+submit提交<br>
+radio单选<br>
+button自定义按钮<br>
+checkbox复选<br>
+textarea文本域<br>
+表单域<br>
+select表单<br>
+label表单<br>
+列表list<br>
+无序列表<br>
+有序列表<br>
+自定义列表</p>
+<p>css<br>
+javascript</p>
 ]]></content>
     </entry>
     <entry>
