@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://charles0122.github.io</id>
+    <id>https://charles0122.github.io</id>
     <title>Charles</title>
-    <updated>2020-08-31T07:01:03.814Z</updated>
+    <updated>2020-08-31T07:02:01.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://charles0122.github.io"/>
-    <link rel="self" href="http://charles0122.github.io/atom.xml"/>
+    <link rel="alternate" href="https://charles0122.github.io"/>
+    <link rel="self" href="https://charles0122.github.io/atom.xml"/>
     <subtitle>基于GitHub Gridea Gitalk工具搭建的个人博客</subtitle>
-    <logo>http://charles0122.github.io/images/avatar.png</logo>
-    <icon>http://charles0122.github.io/favicon.ico</icon>
+    <logo>https://charles0122.github.io/images/avatar.png</logo>
+    <icon>https://charles0122.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Charles</rights>
     <entry>
         <title type="html"><![CDATA[游戏《Call of Companion》同名小说将在起点中文网发布]]></title>
-        <id>http://charles0122.github.io/you-xi-lesslesszhao-huan-tong-ban-greatergreater-tong-ming-xiao-shuo-jiang-zai-qi-dian-zhong-wen-wang-fa-bu/</id>
-        <link href="http://charles0122.github.io/you-xi-lesslesszhao-huan-tong-ban-greatergreater-tong-ming-xiao-shuo-jiang-zai-qi-dian-zhong-wen-wang-fa-bu/">
+        <id>https://charles0122.github.io/you-xi-lesslesszhao-huan-tong-ban-greatergreater-tong-ming-xiao-shuo-jiang-zai-qi-dian-zhong-wen-wang-fa-bu/</id>
+        <link href="https://charles0122.github.io/you-xi-lesslesszhao-huan-tong-ban-greatergreater-tong-ming-xiao-shuo-jiang-zai-qi-dian-zhong-wen-wang-fa-bu/">
         </link>
         <updated>2020-08-30T04:21:00.000Z</updated>
         <content type="html"><![CDATA[<p>该小说将作为游戏背景，游戏内设置的剧情模式，游戏内的地图名字也将采用小说中的地图名字<br>
@@ -72,8 +72,8 @@ https://m.qidian.com/book/1023469425/0</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[游戏《Call of Companion》对有兴趣的小伙伴征集原创稿件]]></title>
-        <id>http://charles0122.github.io/you-xi-lesslesscall-of-companiongreatergreater-dui-you-xing-qu-de-xiao-huo-ban-zheng-ji-yuan-chuang-gao-jian/</id>
-        <link href="http://charles0122.github.io/you-xi-lesslesscall-of-companiongreatergreater-dui-you-xing-qu-de-xiao-huo-ban-zheng-ji-yuan-chuang-gao-jian/">
+        <id>https://charles0122.github.io/you-xi-lesslesscall-of-companiongreatergreater-dui-you-xing-qu-de-xiao-huo-ban-zheng-ji-yuan-chuang-gao-jian/</id>
+        <link href="https://charles0122.github.io/you-xi-lesslesscall-of-companiongreatergreater-dui-you-xing-qu-de-xiao-huo-ban-zheng-ji-yuan-chuang-gao-jian/">
         </link>
         <updated>2020-08-28T16:26:38.000Z</updated>
         <content type="html"><![CDATA[<p>征集内容<br>
@@ -114,8 +114,8 @@ https://m.qidian.com/book/1023469425/0</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[web前端学习笔记]]></title>
-        <id>http://charles0122.github.io/web-qian-duan-xue-xi-ri-zhi/</id>
-        <link href="http://charles0122.github.io/web-qian-duan-xue-xi-ri-zhi/">
+        <id>https://charles0122.github.io/web-qian-duan-xue-xi-ri-zhi/</id>
+        <link href="https://charles0122.github.io/web-qian-duan-xue-xi-ri-zhi/">
         </link>
         <updated>2020-08-28T16:15:56.000Z</updated>
         <content type="html"><![CDATA[<p>html<br>
@@ -152,80 +152,80 @@ javascript</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[2D横板像素风格游戏《Sunny Land》（未完成）]]></title>
-        <id>http://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-Sunny Land/</id>
-        <link href="http://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-Sunny Land/">
+        <id>https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-Sunny Land/</id>
+        <link href="https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-Sunny Land/">
         </link>
         <updated>2020-08-24T17:06:18.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
 <p>游戏制作截图<br>
-<img src="http://charles0122.github.io/post-images/1598388583664.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598388583664.png" alt="" loading="lazy"><br>
 启动画面<br>
-<img src="http://charles0122.github.io/post-images/1598388636172.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598388636172.png" alt="" loading="lazy"><br>
 下蹲代码编写<br>
-<img src="http://charles0122.github.io/post-images/1598388665951.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598388665951.png" alt="" loading="lazy"><br>
 检查bug<br>
-<img src="http://charles0122.github.io/post-images/1598388682287.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598388682287.png" alt="" loading="lazy"><br>
 给开始按钮添加文本格式<br>
-<img src="http://charles0122.github.io/post-images/1598388714124.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598388714124.png" alt="" loading="lazy"><br>
 给文本添加格式<br>
-<img src="http://charles0122.github.io/post-images/1598388734060.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598388734060.png" alt="" loading="lazy"><br>
 看见一只青蛙<br>
-<img src="http://charles0122.github.io/post-images/1598388752251.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598388752251.png" alt="" loading="lazy"><br>
 按下按键触发事件代码编写</p>
 <p>下载方式<br>
-<img src="http://charles0122.github.io/post-images/1598289933973.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598289933973.png" alt="" loading="lazy"><br>
 蓝奏云链接<br>
 https://wwa.lanzous.com/b0dk9147a<br>
-<img src="http://charles0122.github.io/post-images/1598289947400.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598289947400.png" alt="" loading="lazy"><br>
 蓝奏云二维码</p>
 <p>特别说明：由于该项目是根据网络教程制作，不可商用，仅供娱乐。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2D横板像素风格游戏《Hazard of Garcon》（未完成）]]></title>
-        <id>http://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-sunnyland/</id>
-        <link href="http://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-sunnyland/">
+        <id>https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-sunnyland/</id>
+        <link href="https://charles0122.github.io/2d-heng-ban-xiang-su-feng-ge-you-xi-sunnyland/">
         </link>
         <updated>2020-08-24T17:06:18.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
 <p>游戏制作截图<br>
-<img src="http://charles0122.github.io/post-images/1598387284045.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598387284045.png" alt="" loading="lazy"><br>
 告示牌教程<br>
-<img src="http://charles0122.github.io/post-images/1598387370376.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598387370376.png" alt="" loading="lazy"><br>
 全地图<br>
-<img src="http://charles0122.github.io/post-images/1598387378952.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598387378952.png" alt="" loading="lazy"><br>
 受地刺伤害效果<br>
-<img src="http://charles0122.github.io/post-images/1598387388962.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598387388962.png" alt="" loading="lazy"><br>
 释放回旋镖效果<br>
-<img src="http://charles0122.github.io/post-images/1598387396070.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598387396070.png" alt="" loading="lazy"><br>
 准备攻击<br>
-<img src="http://charles0122.github.io/post-images/1598387400712.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598387400712.png" alt="" loading="lazy"><br>
 攻击<br>
-<img src="http://charles0122.github.io/post-images/1598387411425.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598387411425.png" alt="" loading="lazy"><br>
 扔炸弹效果<br>
-<img src="http://charles0122.github.io/post-images/1598387455714.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598387455714.png" alt="" loading="lazy"><br>
 看着空的垃圾桶发呆<br>
-<img src="http://charles0122.github.io/post-images/1598387428543.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598387428543.png" alt="" loading="lazy"><br>
 给垃圾桶投一个硬币<br>
-<img src="http://charles0122.github.io/post-images/1598387435261.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598387435261.png" alt="" loading="lazy"><br>
 谣言<br>
-<img src="http://charles0122.github.io/post-images/1598464757065.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598464757065.png" alt="" loading="lazy"><br>
 主菜单功能<br>
-<img src="http://charles0122.github.io/post-images/1598464778168.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598464778168.png" alt="" loading="lazy"><br>
 暂停菜单功能<br>
-<img src="http://charles0122.github.io/post-images/1598464791833.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598464791833.png" alt="" loading="lazy"><br>
 加载游戏功能<br>
-<img src="http://charles0122.github.io/post-images/1598464816929.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598464816929.png" alt="" loading="lazy"><br>
 传送门功能<br>
-<img src="http://charles0122.github.io/post-images/1598464836740.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598464836740.png" alt="" loading="lazy"><br>
 鬼畜功能（哈哈哈哈哈哈哈哈哈哈）<br>
-<img src="http://charles0122.github.io/post-images/1598464864015.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598464864015.png" alt="" loading="lazy"><br>
 icon没有合适的</p>
 <p>下载方式<br>
-<img src="http://charles0122.github.io/post-images/1598289933973.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598289933973.png" alt="" loading="lazy"><br>
 蓝奏云链接<br>
 https://wwa.lanzous.com/b0dk914ad<br>
-<img src="http://charles0122.github.io/post-images/1598290411123.png" alt="" loading="lazy"><br>
+<img src="https://charles0122.github.io/post-images/1598290411123.png" alt="" loading="lazy"><br>
 蓝奏云二维码</p>
 <!-- more -->
 <p>特别说明：由于该项目是根据网络教程制作，不可商用，仅供娱乐。</p>
@@ -233,11 +233,11 @@ https://wwa.lanzous.com/b0dk914ad<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[游戏《Call of Companion》开发正式启动]]></title>
-        <id>http://charles0122.github.io/you-xi-Call of Companion-kai-fa-zheng-shi-qi-dong/</id>
-        <link href="http://charles0122.github.io/you-xi-Call of Companion-kai-fa-zheng-shi-qi-dong/">
+        <id>https://charles0122.github.io/you-xi-Call of Companion-kai-fa-zheng-shi-qi-dong/</id>
+        <link href="https://charles0122.github.io/you-xi-Call of Companion-kai-fa-zheng-shi-qi-dong/">
         </link>
         <updated>2020-08-23T18:10:34.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="http://charles0122.github.io/post-images/1598288503078.png" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://charles0122.github.io/post-images/1598288503078.png" alt="" loading="lazy"><br>
 主要开发人员</p>
 <p>程序   1  人<br>
 美术   1  人（急缺）<br>
