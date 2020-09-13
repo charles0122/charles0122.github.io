@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charles0122.github.io</id>
     <title>Charles</title>
-    <updated>2020-09-13T16:27:55.193Z</updated>
+    <updated>2020-09-13T16:30:30.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charles0122.github.io"/>
     <link rel="self" href="https://charles0122.github.io/atom.xml"/>
@@ -16,8 +16,12 @@
         <link href="https://charles0122.github.io/_vO_zw-d0/">
         </link>
         <updated>2020-09-13T16:22:39.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://charles0122.github.io/post-images/1600014203998.png" alt="" loading="lazy"><br>
+开发准备</p>
+]]></summary>
         <content type="html"><![CDATA[<p><img src="https://charles0122.github.io/post-images/1600014203998.png" alt="" loading="lazy"><br>
 开发准备</p>
+<!-- more -->
 <p><img src="https://charles0122.github.io/post-images/1600014217440.png" alt="" loading="lazy"><br>
 psd文件准备</p>
 <p><img src="https://charles0122.github.io/post-images/1600014244813.png" alt="" loading="lazy"><br>
