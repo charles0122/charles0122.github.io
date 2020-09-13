@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charles0122.github.io</id>
     <title>Charles</title>
-    <updated>2020-09-13T16:30:30.106Z</updated>
+    <updated>2020-09-13T16:35:14.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charles0122.github.io"/>
     <link rel="self" href="https://charles0122.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, Charles</rights>
     <entry>
         <title type="html"><![CDATA[网站开发实战]]></title>
-        <id>https://charles0122.github.io/_vO_zw-d0/</id>
-        <link href="https://charles0122.github.io/_vO_zw-d0/">
+        <id>https://charles0122.github.io/web-xue-cheng-OL/</id>
+        <link href="https://charles0122.github.io/web-xue-cheng-OL/">
         </link>
         <updated>2020-09-13T16:22:39.000Z</updated>
         <summary type="html"><![CDATA[<p><img src="https://charles0122.github.io/post-images/1600014203998.png" alt="" loading="lazy"><br>
@@ -30,6 +30,9 @@ psd文件准备</p>
 <p><img src="https://charles0122.github.io/post-images/1600014288056.png" alt="" loading="lazy"><br>
 <img src="https://charles0122.github.io/post-images/1600014298889.png" alt="" loading="lazy"><br>
 网页首页banner</p>
+<!-- more -->
+<!-- more -->
+<p>特别注意：psd素材源于网络，如有侵权，请联系博主删除，谢谢</p>
 ]]></content>
     </entry>
     <entry>
